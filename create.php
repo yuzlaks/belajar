@@ -1,3 +1,6 @@
+<?php
+//iki anyar!!!
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -45,7 +48,6 @@
 
         <?php
             include('koneksi.php');
-
             if( isset($_POST['simpan'])){
                 // echo "submit!";
                 $nama = $_POST['nama'];

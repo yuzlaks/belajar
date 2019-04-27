@@ -1,3 +1,3 @@
 ## Ini `proyek` kita boi
-[Jangan dilupa]
+[Jangan dilupa]()
 #### Salam lorem ipsum!
